@@ -1,0 +1,23 @@
+[33mcommit 3e954a9654fb8d9e4a8425b6b33a3e2198d2c08e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Suzimi <Wasabi9527@yandex.com>
+Date:   Sun Oct 29 21:31:10 2023 +0800
+
+    understand how stage works
+
+[33mcommit e1c9e3754f021b643805d773a660e50271f4fd93[m
+Author: Suzimi <Wasabi9527@yandex.com>
+Date:   Sun Oct 29 21:13:22 2023 +0800
+
+     append GPL
+
+[33mcommit 4697ead902e2a105cd739092835baad961714e91[m
+Author: Suzimi <Wasabi9527@yandex.com>
+Date:   Sun Oct 29 21:10:38 2023 +0800
+
+    add distributed
+
+[33mcommit 0a4d3138e01fc23bf0962cb9aa1cd09f8d13d338[m
+Author: Suzimi <Wasabi9527@yandex.com>
+Date:   Sun Oct 29 21:04:50 2023 +0800
+
+    wrote a readme file
