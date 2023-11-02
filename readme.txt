@@ -4,7 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Hello there.
-<<<<<<< HEAD
-Git can use stash to hide branch.
 Fixed a bug.
-
