@@ -10,4 +10,4 @@ for git&amp;&amp;github's learn
 
 
 |**Total time(second)**|   
-|782|
+          |782|
