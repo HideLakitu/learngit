@@ -2,7 +2,7 @@
 for git&amp;&amp;github's learn
 
 
-Where the prefix 10t-10n indicates the values of hyperparameters ```time window``` and ```packets/sample``` that produced the best results in terms of F1 score on the validation set. The values of the other hyperparameters are reported in the ```csv``` file:
+其中前缀 10t-10n 表示在**Validation-Set**上产生F1分数最佳结果的hyper-parameter的时间窗口和package/sample的值。其他超参数的值在相应的csv文件中.
 
 |Model|Samples|Accuracy|F1Score|Hyper-parameters|Validation Set|
 |-----|-------|--------|-------|----------------|--------------|
