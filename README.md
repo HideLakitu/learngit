@@ -6,4 +6,4 @@ Where the prefix 10t-10n indicates the values of hyperparameters ```time window`
 
 |Model|Samples|Accuracy|F1Score|Hyper-parameters|Validation Set|
 |-----|-------|--------|-------|----------------|--------------|
-|DOS2019-LUCID|677|0.9261|0.9256|"{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.1, 'regularization': None}"|./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5|
+|DOS2019-FLAD|677|0.9261|0.9256|"{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.1, 'regularization': None}"|./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5|
