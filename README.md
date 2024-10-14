@@ -6,7 +6,7 @@ for git&amp;&amp;github's learn
 
 |Model|Samples|Accuracy|F1Score|Hyper-parameters|Validation Set|
 |-----|-------|--------|-------|----------------|--------------|
-|DOS2019-FLAD|12322|_**0.9461**_|_**0.9256**_|"{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.05, 'regularization': Early-Stopping}"|./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5|
+|DOS2019-FLAD|12322|_**0.9481**_|_**0.9452**_|"{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.05, 'regularization': Early-Stopping}"|./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5|
 
 
 |**Total time(second)**|
