@@ -8,5 +8,5 @@ for git&amp;&amp;github's learn
 |-----|-------|--------|-------|----------------|--------------|
 |DOS2019-FLAD||_**0.9461**_|{'batch_size': 1024, 'dropout': 0.5, 'kernels': 64, 'learning_rate': 0.1, 'regularization': None}"|./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5|
 
-|**Total time**|
-|782|
+|**Total time(second)**|
+  |782|
