@@ -11,4 +11,4 @@ for git&amp;&amp;github's learn
 
 |Total training time(second)|          
 |---------------------------|
-|         1738|
+|-----------1738------------|
